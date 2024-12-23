@@ -1,0 +1,56 @@
+@charset"UTF-8";
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+* {
+    direction: rtl;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#firstp{
+    background-color: burlywood;
+    width: 50%;
+    height: 100px;
+    border: 5px outset gray;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    box-shadow: -8px 8PX 11PX 0px gray ;
+}
+
+.fonticon li {
+    display: inline;
+    font-size: xx-large;
+padding: 5px;
+border-left: 4px dotted black;
+}
+
+
+
+.fonticon li {
+    color:rgb(0, 0, 0) ;
+ 
+}
+
+.fonticon li a:hover {
+    color: cadetblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
